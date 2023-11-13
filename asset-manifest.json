@@ -1,25 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.0eff0daa.css",
-    "main.js": "/static/js/main.f50651a2.js",
-    "static/media/netflix-clone.jpg": "/static/media/netflix-clone.240b3da4fbe14e3ee584.jpg",
-    "static/media/cv_rus.png": "/static/media/cv_rus.40fd0ec3970232f19854.png",
+    "main.css": "/static/css/main.62aa4f17.css",
+    "main.js": "/static/js/main.35829013.js",
     "static/media/table.png": "/static/media/table.6cfb610970dd3bc9a4e7.png",
-    "static/media/arnellashop.jpg": "/static/media/arnellashop.5f6b01f6ce02e6bb2a64.jpg",
-    "static/media/posbon.jpg": "/static/media/posbon.2f69717991647f2768cd.jpg",
-    "static/media/react-spotify.jpg": "/static/media/react-spotify.c82e55a24ca77e57f521.jpg",
-    "static/media/kseniadesign.jpg": "/static/media/kseniadesign.62466e98f64f7f04dfca.jpg",
-    "static/media/react-sneakers.jpg": "/static/media/react-sneakers.69321f4eb30f545fa2a7.jpg",
-    "static/media/vk.svg": "/static/media/vk.777cae416a80530ea2e7.svg",
-    "static/media/telegram.svg": "/static/media/telegram.025877662e78a0692986.svg",
-    "static/media/github.svg": "/static/media/github.5b2f200b19257afc8aa2.svg",
+    "static/media/github.svg": "/static/media/github.98128cc19fdb602e1a749bb212e95f41.svg",
+    "static/media/telegram.svg": "/static/media/telegram.4c69fd206741e63011938a70b4bf2349.svg",
     "index.html": "/index.html",
-    "static/media/chevron-right.svg": "/static/media/chevron-right.6c0a10d7c47a2dc5f59d.svg",
-    "main.0eff0daa.css.map": "/static/css/main.0eff0daa.css.map",
-    "main.f50651a2.js.map": "/static/js/main.f50651a2.js.map"
+    "static/media/chevron-right.svg": "/static/media/chevron-right.b906b907b8734920fcbff44683f1a49d.svg",
+    "main.62aa4f17.css.map": "/static/css/main.62aa4f17.css.map",
+    "main.35829013.js.map": "/static/js/main.35829013.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eff0daa.css",
-    "static/js/main.f50651a2.js"
+    "static/css/main.62aa4f17.css",
+    "static/js/main.35829013.js"
   ]
 }
